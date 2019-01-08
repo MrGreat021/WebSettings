@@ -8,6 +8,6 @@
   <li>$ pkg install php -y <br>
     <li>$ git clone https://github.com/Aditya021/SpamSms
       <li>$ cd SpamSms
-        <li>==> php BotSMS.php
+        <li>==> php BomSMS.php
        <li> [susces]
-  
+  <marquee>Selesai
