@@ -11,5 +11,5 @@
         <li>==> php BomSMS.php
        <li> [susces]
   <marquee>Selesai
-<li> Copy Lisensi Nya {}
-<li><b>Lisensi</b>===> JDJ5JDEwJC9YMWRvNC5jcmNOSUw2dGdUaUt2d08ucWEvWURWSFNCTXI3U21wdkdsR1FMcVBSTW1oNUZH
+<li> Copy Lisensi Nya 
+<li><b>Lisensi</b>===> Chat Di WhatsApp { +6281262163214 }
