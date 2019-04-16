@@ -12,4 +12,4 @@
        <li> [susces]
   <marquee>Selesai
 <li> Copy Lisensi Nya 
-<li><b>Lisensi</b>===> Chat Di WhatsApp { +6281262163214 }
+<li><b>Lisensi</b>===> Lisensi Sekarang Not Free Jika Mau Anda dapat membelinya 10k Chat Di WhatsApp Jiks Anda Msu { +6281262163214 }
