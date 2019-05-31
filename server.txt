@@ -1,0 +1,6 @@
+import subprocess,os
+os.system("clear")
+raw_input("""HAI KALIAN SEMUA MANUSIA!!
+Jangan Lupa Enter....
+""")
+subprocess.check_output(["am","start","https://api.whatsapp.com/send?phone=628126216314&text=Hello Admin Semoga Hari Mu Menenangkan ^_^"])
