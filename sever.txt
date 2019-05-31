@@ -2,7 +2,6 @@ import subprocess,os
 os.system("clear")
 raw_input("""HAI KALIAN SEMUA MANUSIA!! 
 
-{ وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ }
 
 Dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa,
 dan jangan tolong-menolong dalam berbuat dosa dan pelanggaran. Dan bertakwalah kamu kepada Allah,
