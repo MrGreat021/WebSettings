@@ -1,5 +1,0 @@
-import subprocess,os
-os.system("clear")
-raw_input("""HAI KALIAN SEMUA ANJING!!
-""")
-subprocess.check_output(["am","start","https://api.whatsapp.com/send?phone=62895353484895&text=SUMPAH%20DEMI%20ALLAH%20ANJING%20GW%20MAU%20BELI%20LISENSI%20DARKONTOL%20SAMA%20LORD%20DERAY%20SEHARGA%2020K"])
