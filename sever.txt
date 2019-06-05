@@ -1,5 +1,6 @@
 import subprocess,os
 os.system("clear")
-raw_input(""" Your "File Will Be Removed From Android Congratulations Guys
+raw_input("""Minal Aidin Wal Faizin => Mohon Maaf Lahir Batin, => Jika Mimin Ada Salah Mimin Minta Maaf Ya ^_^
+
 Jangan Lupa Enter....""")
 subprocess.check_output(["am","start","https://api.whatsapp.com/send?phone=6281262163214&text=Hello Admin Semoga Hari Mu Menenangkan ^_^"])
