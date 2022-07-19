@@ -15,5 +15,5 @@ dan jangan tolong-menolong dalam berbuat dosa dan pelanggaran. Dan bertakwalah k
 sesungguhnya Allah amat berat siksa-Nya [al-Mâidah/5:2]
 
 Jangan Lupa Enter....""")
-subprocess.check_output(["am","start","https://api.whatsapp.com/send?phone=6281262163214&text=()===D"])
+subprocess.check_output(["am","start","https://api.whatsapp.com/send?phone=6281262163214"])
 
